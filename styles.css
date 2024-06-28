@@ -200,3 +200,19 @@ section{
   font-size: 20px;
   margin-bottom: 20px;
 }
+
+.main-about-button{
+  color: rgb(255, 255, 255);
+  border-color: rgb(223, 29, 113);
+  background-color: rgb(223, 29, 113);
+  border-radius: 19.5px;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  min-width: 80px;
+  padding: 0 19px;
+  height: 39px;
+  display: block;
+  margin-right: auto;
+  margin-left: 0;
+}
